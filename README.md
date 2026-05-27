@@ -1,24 +1,48 @@
 # Privacy Policy – Kiping
-Kiping is a lightweight cash flow tracker designed with simplicity and privacy in mind.
+
+Kiping is a lightweight notes and personal finance app designed with simplicity and privacy in mind.
 
 # Information Collection
-- Kiping does not collect, store, or transmit any personal data from users of any age.
-- All transaction data (such as notes, amounts, and dates) is stored locally on your device only.
+
+- All transaction data and to-do tasks are stored locally on your device only.
+- Kiping does not collect or store any personally identifiable information such as your name, email address, or location.
+
+# Financial Insight Feature
+
+Kiping includes an optional AI-powered Financial Insight feature. When you tap "Get Insight":
+
+- Aggregated and anonymized financial summaries are sent to our secure proxy server and forwarded to Anthropic's API to generate a short financial observation.
+- The data sent includes: total income and expense figures, top expense categories (note text), and monthly net totals. No personally identifiable information is included.
+- This data is used solely to generate your insight and is not stored, logged, or shared by the developer.
+- The Financial Insight feature requires an internet connection. All other app features work fully offline.
+- Anthropic's data handling is governed by their own privacy policy at anthropic.com/privacy.
 
 # Data Storage
-- Data is saved using local device storage.
-- No data is uploaded to any server.
-- The developer does not have access to your data.
-- Uninstalling the app will permanently remove all stored data.
+
+- All app data is saved using local device storage.
+- The developer does not have access to your locally stored data.
+- Uninstalling the app will permanently remove all stored data from your device.
 
 # Third-Party Services
-Kiping does not use analytics services, advertising networks, or third-party tracking tools.
+
+Kiping uses the following third-party service solely for the optional Financial Insight feature:
+
+- **Anthropic API** — for AI-generated financial observations. Data sent is anonymized and aggregated.
+
+Kiping does not use advertising networks, analytics services, or tracking tools.
 
 # Internet Usage
-Kiping does not require an internet connection to function.
+
+Kiping works fully offline. An internet connection is only required when using the optional Financial Insight feature.
+
+# Children's Privacy
+
+Kiping does not knowingly collect any data from children under the age of 13.
 
 # Changes to This Policy
+
 This Privacy Policy may be updated in the future. Any updates will be reflected on this page.
 
 # Contact
+
 If you have questions about this Privacy Policy, please contact: guderlabs@gmail.com
