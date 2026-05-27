@@ -35,10 +35,6 @@ Kiping does not use advertising networks, analytics services, or tracking tools.
 
 Kiping works fully offline. An internet connection is only required when using the optional Financial Insight feature.
 
-# Children's Privacy
-
-Kiping does not knowingly collect any data from children under the age of 13.
-
 # Changes to This Policy
 
 This Privacy Policy may be updated in the future. Any updates will be reflected on this page.
