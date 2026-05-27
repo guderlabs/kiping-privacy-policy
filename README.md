@@ -1,6 +1,6 @@
 # Privacy Policy – Kiping
 
-Kiping is a lightweight notes and personal finance app designed with simplicity and privacy in mind.
+Kiping is a lightweight personal notes and finance app designed with simplicity and privacy in mind.
 
 # Information Collection
 
